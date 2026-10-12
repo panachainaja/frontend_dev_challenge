@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit"
+  },
+  "editor.formatOnSave": true,
+  "dart.lineLength": 70,
+  "cSpell.words": [
+    "diable",
+    "Vouncher",
+    "Vounchers"
+  ],
+}
